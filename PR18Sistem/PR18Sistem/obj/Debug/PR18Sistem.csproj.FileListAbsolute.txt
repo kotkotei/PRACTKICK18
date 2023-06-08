@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\bin\Debug\PR18Sistem.exe.config
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\bin\Debug\PR18Sistem.exe
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\bin\Debug\PR18Sistem.pdb
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.Form1.resources
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.exe
+C:\Users\Lenovo\source\repos\PR18Sistem\PR18Sistem\obj\Debug\PR18Sistem.pdb
